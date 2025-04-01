@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+lightning_logs/
+tensorboard_logs/
+*$py.class
+.ipynb_checkpoints
+.jupyter
+
